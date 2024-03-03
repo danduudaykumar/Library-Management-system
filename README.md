@@ -35,6 +35,7 @@ This project aims to enhance the efficiency of library operations by introducing
 
 8. **Security:**
    - Proper authentication and authorization mechanisms.
+   
 
 9. **User-Friendly Interface:**
     - Intuitive design for ease of use.
